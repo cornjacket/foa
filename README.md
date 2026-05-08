@@ -40,9 +40,18 @@ Notes:
 
 Emphasize defense in **every** practice. Mix individual and team drills.
 
+### Individual
+
+- **Closeout drill** — chop steps, high hands, contest without fouling.
+- **1v1 coverage** — tight man coverage, wing to wing.
+- **1v1 half court** — rebounder becomes offense, wing-boxout athlete becomes defense; immediate containment + defense.
+- **1v1 boxout** — next man in line is the 3 shooter; defender boxes out, secures the rebound.
+
+### Team
+
 - **3-man weave → immediate 2v1**
 - **2v1 + 1 trailer** — offense picks which basket to attack; defense must communicate.
-- **1v1 half court** — rebounder becomes offense, wing-boxout athlete becomes defense; immediate containment + defense.
+- **3v2 help defense** — defense must rotate and help on drives; recover to shooters on the kick-out.
 - **5-man shell drill — PAC defense** (in-the-gap help defense).
   - *Variant — pass-and-react:* offense only passes the ball (no driving/scoring); defense reacts at full speed to every pass. Builds rotation reps and communication.
   - *Variant — paint-only scoring:* offense can only score in the paint — forces defense to collapse and rotate, and rewards interior help.
@@ -66,6 +75,8 @@ Use our offensive sets as the framework for shooting and layup work.
 Pick one or more per practice.
 
 - **Half-court free throw miss → sprints**
+- **3v3 full court down and shoot** — 3 teams.
+- **Full court / full speed around-the-world layups** — 2 teams.
 
 ## Reviewing Offense
 
@@ -73,9 +84,10 @@ Pick one or more per practice.
 - **5-O Pick 'n Roll** — Drive, Pass to roll, Elbow jumper, Pop
 - **Motion** — off of 5-O
 - **Regular** (used against 2-3) — attack vectors: 45, high post, short corner, overload one side
-- **21** — off of Regular *(confirm)*
-- **Dive** — off of Regular *(confirm)*
-- **4-O** (possibly called "Chins" — research) — currently used to set up Iverson
+- **21** — off of Regular
+- **Dive** — off of Regular
+- **4-O** — currently used to set up Iverson
+- **UCLA**
 
 ## ATO (After Time Out)
 
@@ -102,3 +114,18 @@ We need **3 plays** in the bag — one of each type:
 ## Scrimmage
 
 **10-minute scrimmage** at the end of practice — apply the concepts emphasized in today's session.
+
+## Sample Practices
+
+### Thursday — 90 min
+
+| Time | Block | Detail |
+|---|---|---|
+| 10 min | Dribbling (warm-up) | Between the legs, Under drags, Cross jabs, Hips to drop step |
+| 10 min | Drive-N-* | Under-drag → drive-n-layup AND drive-n-high-off-the-glass (right + left hand) |
+| 10 min | Defense — team | 5-man shell — PAC defense (+ pass-and-react / paint-only variants) |
+| 10 min | Shooting | Iverson, 4 athletes / 2 lines, switch sides |
+| 20 min | Full court (defense) | 2v1 + 1 trailer |
+| 10 min | Cardio | Full court / full speed around-the-world layups (2 teams) |
+| 10 min | Review Offense | 5-O, Zoom, Motion, Regular, 21 |
+| 10 min | Scrimmage | — |
