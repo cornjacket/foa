@@ -140,12 +140,9 @@ Defense-heavy session. Anchored by team defense reps, an offensive set review, a
 | 10 min | Dribbling (warm-up) | Speed stops, Under drags, Cross jabs, Hips to drop step |
 | 10 min | Drive-N-* | Speed stops → drive-n-layup AND drive-n-high-off-the-glass (right + left hand) |
 | 10 min | Defense — team | Blackhawk (pack-line drill) |
-| 15 min | Defense — team | 5-man shell — PAC defense (+ pass-and-react / paint-only variants) |
 | 10 min | Defense — team | 3 Card Monty — Regular version |
-| 10 min | Full court (defense) | 2v1 + 1 trailer |
-| 10 min | Full court (defense) | 3v2 + 1 trailer |
-| 10 min | Review Offense | 21 (off of Regular) |
-| 20 min | ATO | Walk-through + reps: Baseline (X, Stack-1, Stack-2), Sideline (Triangle) |
+| 20 min | Review Offense | 5-Oh Zoom |
+| 20 min | Defense — team | Pack Line cone drill w/ floater finish |
 | 15 min | Scrimmage | Apply team-defense concepts from today |
 
 ### Thursday 5/14 — 90 min
