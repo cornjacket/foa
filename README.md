@@ -158,8 +158,9 @@ Defense-heavy session compressed to 90 min. Anchored by team defense reps, an of
 | 10 min | Defense — team | 5-man shell — PAC defense |
 | 8 min | Defense — team | Blackhawk 3v3 (pack-line drill) |
 | 8 min | Defense — team | King of the Hill 2v2 |
+| 14 min | Defense — team | Pack Line cone drill w/ floater finish |
 | 0 min | Full court (defense) | 2v1 + 1 trailer |
 | 0 min | Full court (defense) | 3v2 + 1 trailer |
 | 8 min | Review Offense | 21 (off of Regular) |
-| 14 min | ATO | Walk-through + reps: Baseline (X, Stack-1, Stack-2), Sideline (Triangle) |
+| 0 min | ATO | Walk-through + reps: Baseline (X, Stack-1, Stack-2), Sideline (Triangle) |
 | 10 min | Scrimmage | Apply team-defense concepts from today |
