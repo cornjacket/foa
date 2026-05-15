@@ -115,9 +115,39 @@ We need **3 plays** in the bag — one of each type:
 
 **10-minute scrimmage** at the end of practice — apply the concepts emphasized in today's session.
 
-## Sample Practices
+## Practices
 
-### Monday (Team) — 120 min
+### Thursday 5/7 — 90 min
+
+| Time | Block | Detail |
+|---|---|---|
+| 10 min | Dribbling (warm-up) | Between the legs, Under drags, Cross jabs, Hips to drop step |
+| 10 min | Drive-N-* | Under-drag → drive-n-layup AND drive-n-high-off-the-glass (right + left hand) |
+| 10 min | Defense — team | 5-man shell — PAC defense (+ pass-and-react / paint-only variants) |
+| 10 min | Shooting | Iverson, 4 athletes / 2 lines, switch sides |
+| 20 min | Full court (defense) | 2v1 + 1 trailer |
+| 10 min | Cardio | Full court / full speed around-the-world layups (2 teams) |
+| 10 min | Review Offense | 5-O, Zoom, Motion, Regular, 21 |
+| 10 min | Scrimmage | — |
+
+### Thursday 5/14 — 90 min
+
+Defense-heavy session compressed to 90 min. Anchored by team defense reps, an offensive set review, and ATO work.
+
+| Time | Block | Detail |
+|---|---|---|
+| 8 min | Dribbling (warm-up) | Speed stops, Under drags, Cross jabs, Hips to drop step |
+| 8 min | Drive-N-* | Speed stops → drive-n-layup AND drive-n-high-off-the-glass (right + left hand) |
+| 8 min | Defense — team | Blackhawk (pack-line drill) |
+| 10 min | Defense — team | 5-man shell — PAC defense (+ pass-and-react / paint-only variants) |
+| 8 min | Defense — team | 3 Card Monty — Regular version |
+| 8 min | Full court (defense) | 2v1 + 1 trailer |
+| 8 min | Full court (defense) | 3v2 + 1 trailer |
+| 8 min | Review Offense | 21 (off of Regular) |
+| 14 min | ATO | Walk-through + reps: Baseline (X, Stack-1, Stack-2), Sideline (Triangle) |
+| 10 min | Scrimmage | Apply team-defense concepts from today |
+
+### Monday 5/11 (Team) — 120 min
 
 Defense-heavy session. Anchored by team defense reps, an offensive set review, and ATO work.
 
@@ -133,16 +163,3 @@ Defense-heavy session. Anchored by team defense reps, an offensive set review, a
 | 10 min | Review Offense | 21 (off of Regular) |
 | 20 min | ATO | Walk-through + reps: Baseline (X, Stack-1, Stack-2), Sideline (Triangle) |
 | 15 min | Scrimmage | Apply team-defense concepts from today |
-
-### Thursday — 90 min
-
-| Time | Block | Detail |
-|---|---|---|
-| 10 min | Dribbling (warm-up) | Between the legs, Under drags, Cross jabs, Hips to drop step |
-| 10 min | Drive-N-* | Under-drag → drive-n-layup AND drive-n-high-off-the-glass (right + left hand) |
-| 10 min | Defense — team | 5-man shell — PAC defense (+ pass-and-react / paint-only variants) |
-| 10 min | Shooting | Iverson, 4 athletes / 2 lines, switch sides |
-| 20 min | Full court (defense) | 2v1 + 1 trailer |
-| 10 min | Cardio | Full court / full speed around-the-world layups (2 teams) |
-| 10 min | Review Offense | 5-O, Zoom, Motion, Regular, 21 |
-| 10 min | Scrimmage | — |
