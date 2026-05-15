@@ -153,13 +153,13 @@ Defense-heavy session compressed to 90 min. Anchored by team defense reps, an of
 | Time | Block | Detail |
 |---|---|---|
 | 8 min | Dribbling (warm-up) | Speed stops, Under drags, Cross jabs, Hips to drop step |
-| 4 min | Drive-N-* | Speed stops → drive-n-layup (right + left hand) |
-| 4 min | Drive-N-* | Speed stops → drive-n-high-off-the-glass (right + left hand) |
-| 8 min | Defense — team | Blackhawk (pack-line drill) |
-| 10 min | Defense — team | 5-man shell — PAC defense (+ pass-and-react / paint-only variants) |
-| 8 min | Defense — team | 3 Card Monty — Regular version |
-| 8 min | Full court (defense) | 2v1 + 1 trailer |
-| 8 min | Full court (defense) | 3v2 + 1 trailer |
+| 12 min | Drive-N-* | Speed stops → drive-n-layup (right + left hand) |
+| 12 min | Drive-N-* | Speed stops → drive-n-high-off-the-glass (right + left hand) |
+| 10 min | Defense — team | 5-man shell — PAC defense |
+| 8 min | Defense — team | Blackhawk 3v3 (pack-line drill) |
+| 8 min | Defense — team | King of the Hill 2v2 |
+| 0 min | Full court (defense) | 2v1 + 1 trailer |
+| 0 min | Full court (defense) | 3v2 + 1 trailer |
 | 8 min | Review Offense | 21 (off of Regular) |
 | 14 min | ATO | Walk-through + reps: Baseline (X, Stack-1, Stack-2), Sideline (Triangle) |
 | 10 min | Scrimmage | Apply team-defense concepts from today |
