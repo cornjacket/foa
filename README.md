@@ -118,49 +118,7 @@ We need **3 plays** in the bag — one of each type:
 
 ## Practices
 
-### Thursday 5/7 — 90 min
-
-| Time | Block | Detail |
-|---|---|---|
-| 10 min | Dribbling (warm-up) | Between the legs, Under drags, Cross jabs, Hips to drop step |
-| 10 min | Drive-N-* | Under-drag → drive-n-layup AND drive-n-high-off-the-glass (right + left hand) |
-| 10 min | Defense — team | 5-man shell — PAC defense (+ pass-and-react / paint-only variants) |
-| 10 min | Shooting | Iverson, 4 athletes / 2 lines, switch sides |
-| 20 min | Full court (defense) | 2v1 + 1 trailer |
-| 10 min | Cardio | Full court / full speed around-the-world layups (2 teams) |
-| 10 min | Review Offense | 5-O, Zoom, Motion, Regular, 21 |
-| 10 min | Scrimmage | — |
-
-### Monday 5/11 (Team) — 120 min
-
-Defense-heavy session. Anchored by team defense reps, an offensive set review, and ATO work.
-
-| Time | Block | Detail |
-|---|---|---|
-| 10 min | Dribbling (warm-up) | Speed stops, Under drags, Cross jabs, Hips to drop step |
-| 20 min | Drive-N-* | Speed stops → drive-n-layup (right + left hand) |
-| 15 min | Drive-N-* | Speed stops → drive-n-high-off-the-glass (right + left hand) |
-| 10 min | Defense — team | Blackhawk (pack-line drill) |
-| 10 min | Defense — team | 3 Card Monty — Regular version |
-| 20 min | Review Offense | 5-Oh Zoom |
-| 20 min | Defense — team | Pack Line cone drill w/ floater finish |
-| 15 min | Scrimmage | Apply team-defense concepts from today |
-
-### Thursday 5/14 — 90 min
-
-Defense-heavy session compressed to 90 min. Anchored by team defense reps, an offensive set review, and ATO work.
-
-| Time | Block | Detail |
-|---|---|---|
-| 8 min | Dribbling (warm-up) | Speed stops, Under drags, Cross jabs, Hips to drop step |
-| 12 min | Drive-N-* | Speed stops → drive-n-layup (right + left hand) |
-| 12 min | Drive-N-* | Speed stops → drive-n-high-off-the-glass (right + left hand) |
-| 10 min | Defense — team | 5-man shell — PAC defense |
-| 8 min | Defense — team | Blackhawk 3v3 (pack-line drill) |
-| 8 min | Defense — team | King of the Hill 2v2 |
-| 14 min | Defense — team | Pack Line cone drill w/ floater finish |
-| 0 min | Full court (defense) | 2v1 + 1 trailer |
-| 0 min | Full court (defense) | 3v2 + 1 trailer |
-| 8 min | Review Offense | 21 (off of Regular) |
-| 0 min | ATO | Walk-through + reps: Baseline (X, Stack-1, Stack-2), Sideline (Triangle) |
-| 10 min | Scrimmage | Apply team-defense concepts from today |
+- [Tuesday 6/9 — 120 min](plans/26-06-09.md)
+- [Thursday 5/14 — 90 min](plans/20-05-14.md)
+- [Monday 5/11 (Team) — 120 min](plans/20-05-11.md)
+- [Thursday 5/7 — 90 min](plans/20-05-07.md)
