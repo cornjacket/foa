@@ -79,6 +79,16 @@ Pick one or more per practice.
 - **3v3 full court down and shoot** — 3 teams.
 - **Full court / full speed around-the-world layups** — 2 teams.
 
+## Full Court Drills
+
+Drills that use the full court (everything else defaults to half court).
+
+- **2v1** — sideline-to-sideline, or full court.
+- **2v2 full court** — full-court 2v2; transition offense and defense, communicate on the break.
+- **3v3 full court down and shoot** — 3 teams.
+- **Full court / full speed around-the-world layups** — 2 teams.
+- **Full court inbound play** *(ATO — deprioritized)*
+
 ## Reviewing Offense
 
 - **5-O** — Downstream + Downstream + Zoom
