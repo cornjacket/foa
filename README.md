@@ -128,6 +128,7 @@ We need **3 plays** in the bag — one of each type:
 
 ## Practices
 
+- [Tuesday 7/21 — 120 min](plans/26-07-21.md)
 - [Friday 7/17 — 120 min](plans/26-07-17.md)
 - [Tuesday 7/14 — 150 min](plans/26-07-14.md)
 - [Tuesday 7/7 — 120 min](plans/26-07-07.md)
