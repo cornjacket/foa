@@ -21,4 +21,4 @@ Newest practice at the top.
 | Date | Ayaansh | Julian | Mason | Matthew | Neev | Noah | Patrick | Thalen | Tommy |
 |---|---|---|---|---|---|---|---|---|---|
 | **Summary** | **0** | **0** | **1** | **0** | **1** | **0** | **1** | **1** | **1** |
-| [8/25](plans/26-08-25.md) | ❌ | ❌ | ✅ | ⚠️ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| [8/25](plans/26-08-25.md) | ❌ | ❌ | ✅ | ⚠️ | ✅ | ❌ | ✔️ | ✅ | ✅ |
