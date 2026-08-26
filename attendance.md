@@ -1,12 +1,22 @@
 # Attendance
 
-**Legend**
+## Key
 
-- ✅ — attended
-- ❌ — absent, marked in TeamSnap
-- ⚠️ — no-show, said they would be there
+| Symbol | Means | Counts? |
+|---|---|---|
+| ✅ | Attended | **Yes** |
+| ✔️ | Excused — standing conflict, can't make this day of the week | **Yes** |
+| ❌ | Absent — marked it in TeamSnap | No |
+| ⚠️ | No-show — said they would be there | No |
 
-**Summary** counts ✅ only. Newest practice at the top of the log.
+**Summary** is the sum of ✅ and ✔️ down each column. A standing conflict is not a choice
+anybody made, so it scores the same as showing up.
+
+**Standing conflicts:** Patrick — Tuesdays.
+
+## Log
+
+Newest practice at the top.
 
 | Date | Ayaansh | Julian | Mason | Matthew | Neev | Noah | Patrick | Thalen | Tommy |
 |---|---|---|---|---|---|---|---|---|---|
