@@ -126,6 +126,10 @@ We need **3 plays** in the bag — one of each type:
 
 **10-minute scrimmage** at the end of practice — apply the concepts emphasized in today's session.
 
+## Attendance
+
+Practice-by-practice attendance log — [attendance.md](attendance.md).
+
 ## Practices
 
 - [Tuesday 8/25 — 120 min](plans/26-08-25.md)
