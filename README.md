@@ -132,6 +132,7 @@ Practice-by-practice attendance log — [attendance.md](attendance.md).
 
 ## Practices
 
+- [Friday 9/18 — 120 min](plans/26-09-18.md)
 - [Friday 9/11 — 120 min](plans/26-09-11.md)
 - [Friday 8/28 — 120 min](plans/26-08-28.md)
 - [Tuesday 8/25 — 120 min](plans/26-08-25.md)
