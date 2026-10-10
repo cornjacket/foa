@@ -64,6 +64,9 @@ Use our offensive sets as the framework for shooting and layup work.
 - **3-man zoom → elbow jump shot**
 - **3-man zoom → drive → kick-out to corner → swing to wing for the 3**
 - **Iverson → outlet pass to shooter for the 3**
+- **3-Out shooting drill (Hotwheel)** — out of 3-Out, point passes to the strong wing → pump fake →
+  drive left to the elbow → jump shot. Defenders on the strong wing and the weak-side elbow.
+  *Option:* pump-n-step-thru when the elbow defender steps up to help.
 
 ## Fun Stuff
 
