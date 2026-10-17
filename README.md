@@ -102,6 +102,9 @@ Drills that use the full court (everything else defaults to half court).
 - **Dive** — off of Regular
 - **4-O** — currently used to set up Iverson
 - **UCLA**
+- **Corners** — half-court delay offense. 10 passes before a shot, no immediate dribble on the
+  catch, and giving up the dribble is a turnover. Uses a weak-side downscreen, DHO and cuts off
+  screens, then finishes with drive, kick and swing for 3.
 
 ## ATO (After Time Out)
 
@@ -116,6 +119,7 @@ We need **3 plays** in the bag — one of each type:
 - **X**
 - **Stack-1**
 - **Stack-2**
+- **Spread** — no immediate dribble after the inbound.
 
 ### Sideline Inbound
 
